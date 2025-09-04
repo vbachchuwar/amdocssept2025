@@ -1,2 +1,3 @@
 Big data analytics
 Hadoop Architecture
+AWS -Kinesis
